@@ -1,0 +1,42 @@
+
+
+/* ===============================
+export const NumberLineVisual
+=============================== */
+
+export const NumberLineVisual: React.FC<{ visual: any }
+
+
+/* ===============================
+export const FractionVisual
+=============================== */
+
+export const FractionVisual: React.FC<{ visual: any }
+
+
+/* ===============================
+export const FractionOpsVisual
+=============================== */
+
+export const FractionOpsVisual: React.FC<{ visual: any }
+
+
+/* ===============================
+export const PlaceValueVisual
+=============================== */
+
+export const PlaceValueVisual: React.FC<{ visual: any }
+
+
+/* ===============================
+export const CountingVisual
+=============================== */
+
+export const CountingVisual: React.FC<{ visual: any }
+
+
+/* ===============================
+export const VisualComponent
+=============================== */
+
+export const VisualComponent: React.FC<{ visual: any }
